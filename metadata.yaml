@@ -1,0 +1,33 @@
+_repo: La-vampire_10053
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Féval, Paul
+    aliases:
+    - Féval, Paul Henri Corentin
+    - Feval, Paul
+    birthdate: 1817
+    deathdate: 1887
+    gutenberg_agent_id: '3280'
+    url: http://www.gutenberg.org/2009/agents/3280
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Paul_Féval_père
+    - http://en.wikipedia.org/wiki/Paul_Féval,_père
+description: ''
+gutenberg_bookshelf:
+- FR Littérature
+- Horror
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10053'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Vampires -- Fiction'
+- GITenberg
+title: La vampire
+url: http://www.gutenberg.org/ebooks/10053
