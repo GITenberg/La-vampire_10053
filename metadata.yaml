@@ -1,5 +1,8 @@
 _repo: La-vampire_10053
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Féval, Paul
@@ -14,6 +17,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Paul_Féval_père
     - http://en.wikipedia.org/wiki/Paul_Féval,_père
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10053#La-vampire
 gutenberg_bookshelf:
 - FR Littérature
 - Horror
